@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+
+[app]
+title = "TEMP Rebuttal Assistant"
+header_color = "#007ACC"  # Color for the chat header
+bg_color = "#F1F1F1"       # Background color for chat messages
+user_msg_color = "#D1E8E2" # Color for user messages
+assistant_msg_color = "#FFFFFF" # Color for assistant messages
+
